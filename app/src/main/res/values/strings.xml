@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeChatDanmaku</string>
+    <string name="show">添加弹幕</string>
+    <string name="stop">关闭程序</string>
+</resources>

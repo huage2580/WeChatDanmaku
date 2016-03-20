@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="I:\DanmakuFlameMaster-master\DanmakuFlameMaster\build\intermediates\bundles\debug\res"/></dataSet><dataSet config="main"><source path="I:\DanmakuFlameMaster-master\DanmakuFlameMaster\src\androidTest\res"/><source path="I:\DanmakuFlameMaster-master\DanmakuFlameMaster\build\generated\res\rs\androidTest\debug"/><source path="I:\DanmakuFlameMaster-master\DanmakuFlameMaster\build\generated\res\resValues\androidTest\debug"/></dataSet><mergedItems/></merger>
